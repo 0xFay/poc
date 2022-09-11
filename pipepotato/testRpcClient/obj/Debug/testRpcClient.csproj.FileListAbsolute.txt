@@ -1,0 +1,10 @@
+D:\项目\pipepotato\testRpcClient\bin\Debug\testRpcClient.exe.config
+D:\项目\pipepotato\testRpcClient\bin\Debug\testRpcClient.exe
+D:\项目\pipepotato\testRpcClient\bin\Debug\testRpcClient.pdb
+D:\项目\pipepotato\testRpcClient\bin\Debug\NtApiDotNet.dll
+D:\项目\pipepotato\testRpcClient\bin\Debug\NtApiDotNet.xml
+D:\项目\pipepotato\testRpcClient\obj\Debug\testRpcClient.csprojAssemblyReference.cache
+D:\项目\pipepotato\testRpcClient\obj\Debug\testRpcClient.csproj.CoreCompileInputs.cache
+D:\项目\pipepotato\testRpcClient\obj\Debug\testRpcClient.csproj.CopyComplete
+D:\项目\pipepotato\testRpcClient\obj\Debug\testRpcClient.exe
+D:\项目\pipepotato\testRpcClient\obj\Debug\testRpcClient.pdb

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "appxdeploymentserver_getsystem": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\项目\\com_bug_hunt\\appxdeploymentserver_ToSystem"
+    }
+  }
+}

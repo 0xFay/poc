@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>silentcleanup_uac</id>
+    <version>1.0.0</version>
+    <authors>silentcleanup_uac</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\项目\com_bug_hunt\silentcleanup_uac\bin\Release\netcoreapp3.1\silentcleanup_uac.runtimeconfig.json" target="lib\netcoreapp3.1\silentcleanup_uac.runtimeconfig.json" />
+    <file src="D:\项目\com_bug_hunt\silentcleanup_uac\bin\Release\netcoreapp3.1\silentcleanup_uac.dll" target="lib\netcoreapp3.1\silentcleanup_uac.dll" />
+  </files>
+</package>

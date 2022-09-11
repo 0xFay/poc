@@ -1,0 +1,12 @@
+D:\项目\com_bug_hunt\silentcleanup_uac\bin\Release\netcoreapp3.1\silentcleanup_uac.exe
+D:\项目\com_bug_hunt\silentcleanup_uac\bin\Release\netcoreapp3.1\silentcleanup_uac.deps.json
+D:\项目\com_bug_hunt\silentcleanup_uac\bin\Release\netcoreapp3.1\silentcleanup_uac.runtimeconfig.json
+D:\项目\com_bug_hunt\silentcleanup_uac\bin\Release\netcoreapp3.1\silentcleanup_uac.runtimeconfig.dev.json
+D:\项目\com_bug_hunt\silentcleanup_uac\bin\Release\netcoreapp3.1\silentcleanup_uac.dll
+D:\项目\com_bug_hunt\silentcleanup_uac\bin\Release\netcoreapp3.1\silentcleanup_uac.pdb
+D:\项目\com_bug_hunt\silentcleanup_uac\obj\Release\netcoreapp3.1\silentcleanup_uac.AssemblyInfoInputs.cache
+D:\项目\com_bug_hunt\silentcleanup_uac\obj\Release\netcoreapp3.1\silentcleanup_uac.AssemblyInfo.cs
+D:\项目\com_bug_hunt\silentcleanup_uac\obj\Release\netcoreapp3.1\silentcleanup_uac.csproj.CoreCompileInputs.cache
+D:\项目\com_bug_hunt\silentcleanup_uac\obj\Release\netcoreapp3.1\silentcleanup_uac.dll
+D:\项目\com_bug_hunt\silentcleanup_uac\obj\Release\netcoreapp3.1\silentcleanup_uac.pdb
+D:\项目\com_bug_hunt\silentcleanup_uac\obj\Release\netcoreapp3.1\silentcleanup_uac.genruntimeconfig.cache

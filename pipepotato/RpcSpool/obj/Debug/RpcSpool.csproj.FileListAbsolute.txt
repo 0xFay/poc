@@ -1,0 +1,10 @@
+D:\项目\pipepotato\RpcSpool\bin\Debug\RpcSpool.exe.config
+D:\项目\pipepotato\RpcSpool\bin\Debug\RpcSpool.exe
+D:\项目\pipepotato\RpcSpool\bin\Debug\RpcSpool.pdb
+D:\项目\pipepotato\RpcSpool\bin\Debug\NtApiDotNet.dll
+D:\项目\pipepotato\RpcSpool\bin\Debug\NtApiDotNet.xml
+D:\项目\pipepotato\RpcSpool\obj\Debug\RpcSpool.csproj.CoreCompileInputs.cache
+D:\项目\pipepotato\RpcSpool\obj\Debug\RpcSpool.csproj.CopyComplete
+D:\项目\pipepotato\RpcSpool\obj\Debug\RpcSpool.exe
+D:\项目\pipepotato\RpcSpool\obj\Debug\RpcSpool.pdb
+D:\项目\pipepotato\RpcSpool\obj\Debug\RpcSpool.csproj.AssemblyReference.cache

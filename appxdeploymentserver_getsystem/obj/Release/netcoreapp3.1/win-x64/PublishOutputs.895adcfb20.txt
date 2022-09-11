@@ -1,0 +1,2 @@
+D:\项目\com_bug_hunt\appxdeploymentserver_getsystem\bin\Release\netcoreapp3.1\publish\appxdeploymentserver_getsystem.pdb
+D:\项目\com_bug_hunt\appxdeploymentserver_getsystem\bin\Release\netcoreapp3.1\publish\appxdeploymentserver_getsystem.exe
