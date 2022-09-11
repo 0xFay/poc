@@ -1,0 +1,10 @@
+D:\项目\bypassUAC\bypassUAC_alpc\bin\Release\bypassUAC_alpc.exe.config
+D:\项目\bypassUAC\bypassUAC_alpc\bin\Release\bypassUAC_alpc.exe
+D:\项目\bypassUAC\bypassUAC_alpc\bin\Release\bypassUAC_alpc.pdb
+D:\项目\bypassUAC\bypassUAC_alpc\bin\Release\NtApiDotNet.dll
+D:\项目\bypassUAC\bypassUAC_alpc\bin\Release\NtApiDotNet.xml
+D:\项目\bypassUAC\bypassUAC_alpc\obj\Release\bypassUAC_alpc.csproj.AssemblyReference.cache
+D:\项目\bypassUAC\bypassUAC_alpc\obj\Release\bypassUAC_alpc.csproj.CoreCompileInputs.cache
+D:\项目\bypassUAC\bypassUAC_alpc\obj\Release\bypassUAC_alpc.csproj.CopyComplete
+D:\项目\bypassUAC\bypassUAC_alpc\obj\Release\bypassUAC_alpc.exe
+D:\项目\bypassUAC\bypassUAC_alpc\obj\Release\bypassUAC_alpc.pdb
